@@ -1,0 +1,6 @@
+# Dataset klasörü
+Meander_HandPD/
+!Meander_HandPD/.gitkeep  # boş klasör tutmak istersen
+
+# Model dosyaları
+*.h5
